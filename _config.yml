@@ -10,8 +10,7 @@ title:            'Iain McLaren'
 tagline:          home
 description:      '<a href="http://iainmclaren.com" target="_blank">Iain McLaren</a>'
 url:              http://iainmclaren.com
-#baseurl:          '/'
-baseurl:          '/blog/'
+baseurl:          '/'
 paginate:         5
 
 author:
