@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Iain McLaren'
+tagline:          home
+description:      '<a href="http://iainmclaren.com" target="_blank">Iain McLaren</a>'
+url:              http://iainmclaren.com
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'Iain McLaren'
+  url:            https://twitter.com/iainfm
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/imclaren/imclaren.github.io

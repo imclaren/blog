@@ -1,0 +1,95 @@
+---
+layout: post
+title: The 8 Contracting Rules
+---
+
+> “Amateurs discuss strategy. Dilettantes discuss tactics. Professionals discuss logistics.” -- Unknown 
+
+Yes there are eight<sup>[1](#1)</sup> rules for closing important<sup>[2](#2)</sup> contracts.  Two weeks ago:
+
+> **Client:** "No, we are not doing that.  We  need to follow Iain's rules."
+
+> **Me, incredulously:** "My what?"
+
+And then it hit me.  Especially when another client asked me to create a:
+
+> "Markup and Document Exchange Protocol" or a "simple document to accompany initial drafts of agreement documents to establish ... preferred protocols."
+
+My clients are the best.  Really.  But that sounds awful.  I mean really awful.  Worse than doing my taxes awful.  So instead, let's just invent eight practical rules for closing contracts:
+
+###(1) The customer and the supplier meet in person
+Or at least via teleconference.  To ensure ... or let's be realistic at least significantly increase the likelihood ... that we all ... at least broadly ... understand the scope of the services that will be provided by the supplier to the customer.
+
+I know I know.  It seems obvious.  But skipping this step is a killer.  It is amazing how often that we find that what the supplier thinks it is selling is very different to what the customer thinks it is buying.
+
+###(2) The customer provides the first draft of the contract to the supplier
+The supplier does not provide the first draft.  Yes, I said it.<sup>[3](#3)</sup>  
+
+And if you are a customer and you do not have an appropriate template?  Ask a law firm, that specialises in what we are doing, to draft one for you.  Oh, and in general, with law firms, we get what we pay for.  And ... ah ... no ....  I'm getting distracted.  Engaging  great lawyers is definitely a discussion for another day ...
+
+###(3) The supplier reviews the contract and then phones the customer to complain
+I am being slightly.  Just slightly.  Tongue in cheek here.  What I mean is that the supplier should only make this call to the customer if the agreement is ... just ... completely and utterly ... wrong.  
+
+If the supplier makes this call and the customer is convinced, then we return to step (2).  And yes, this document is turning into "Choose your own Adventure".  And yes, if you have no idea what "Choose your own Adventure" is, then you are just too too young ... and ... where was I?  
+
+Oh yes ...
+
+###(4) The supplier marks up that first draft of the agreement
+
+No Microsoft Word comments.  No issues lists.  Just turn on Microsoft Word track changes and mark-up that document.  
+
+Commit don't preside.  
+
+Trust me when I say that our drafting changes will be self-explanatory.  Well, almost always.  And if we really really feel that our drafting changes are not self-explanatory, then we can insert comments as tracked changes in square brackets. For example:
+
+> \[Supplier note:  We have deleted this clause requiring us to coat all of our elephants in solid gold.  While we understand the customer's preference for shiny things, this would result in a significant price uplift.  And probably kill the elephants.\]
+
+And for what it's worth, these comments really pop if you highlight them in yellow.  I'm just saying.  But anyway ...
+
+###(5) The customer reviews the supplier's draft and then phones the supplier to complain
+
+Tongues and cheeks again.  At least a little.  The customer only needs to make this phone call if the supplier has not followed the above process.  Or if the supplier has "shredded" the contract.  For example, by ... oh, I don't know ... say ... deleting large chunks of the customer's drafting, and replacing that drafting with the supplier's standard terms and conditions.
+
+In other words, if we have not followed the process, then we return to step (4).  Or if we have followed the process then ... 
+
+###(6) The customer marks up the supplier's draft of the agreement
+
+All of the rules in step (4) apply.  Accept all of the supplier's changes, turn on Microsoft Word track changes, and just mark-up the document.  We are trying to "close" the contract, so really really try not to introduce new terms and conditions.
+
+Seriously.  Apologise to the supplier if we have to introduce whole new clauses.  Our goal is to hold our ground, or compromise if we must.  We will never finish if we keep adding new clauses.
+
+###(7) Continue exchanging drafts
+
+We will have built up some momentum now.  We close by (in descending order of preference):
+
+- exchanging drafts as set out above (i.e. accept all changes, mark-up, and apologise if we add new clauses);
+- resolving issues during phone calls and/or teleconferences; and
+- attending face to face meetings.
+
+The fewer meetings we have, the faster we close.  Counterintuitive but true.  I promise you.  So at this stage emails are better than phone calls.  And phone calls are better than face to face meetings.  
+
+Therefore:
+
+- It is best to exchange drafts when we are just dealing with "drafting" issues rather than any "commercial" or "legal" disagreements.
+- Then, hopefully, we will end up with a draft of the agreement with much fewer "redlines".  And we can run through the latest draft of the agreement during phone calls.  Hold the line against issues lists.
+- Then, once we are left with, say, 5 to 10 issues, we can get in a room to resolve the final issues.  For large agreements, at this stage we will probably involve C level executives. 
+
+Resist getting in a room for days at a time from the start.  Unless we are into wasting our lives having fascinating meta-discussions regarding contracting principles.  In other words, let's just ... 
+
+### (8) Close
+
+Close.  Close.  Close.  Apparently it is as simple as [ABC](http://www.youtube.com/watch?v=wVQPY4LlbJ4 "Sales") ...
+
+---
+
+#### Footnotes
+[<a id="1">1</a>]: Because 7 (Samurai) was taken.  And because 8 is lucky.  And because proposing [x] rules for [y] things is apparently fantastic clickbait.  And 8  seems real because it is not divisible by 5.  Luck + clicks = profit!
+
+[<a id="2">2</a>]: Drawing the line between "important" and "unimportant" contracts is tricky.  Many of the above rules break down for smaller or less important agreements.  Or if the supplier has significant market power.  Like Newtonian physics breaks down when we get quantum.  Or appears to.  Is it just me, or are theoretical physicists just making whole areas of study up at this point? ...
+
+[<a id="3">3</a>]: There will be shouting.  Mark my words.
+
+---
+
+**This post originally appeared at [iainmclaren.com](http://iainmclaren.com).** Thanks to Josh Morris for reviewing early drafts.  These opinions are mine.  They are not necessarily those of my employer. And this is not legal advice. Seek it if you need it.
+
