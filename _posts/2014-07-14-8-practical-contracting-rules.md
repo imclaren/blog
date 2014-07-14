@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The 8 Contracting Rules
+title: Closing contracts in 8 steps
 ---
 
 > “Amateurs discuss strategy. Dilettantes discuss tactics. Professionals discuss logistics.” -- Unknown 
 
-Yes there are eight<sup>[1](#1)</sup> rules for closing important<sup>[2](#2)</sup> contracts.  Two weeks ago:
+Yes, there are eight<sup>[1](#1)</sup> steps or rules for closing important<sup>[2](#2)</sup> contracts.  Two weeks ago:
 
 > **Client:** "No, we are not doing that.  We  need to follow Iain's rules."
 
@@ -15,7 +15,7 @@ And then it hit me.  Especially when another client asked me to create a:
 
 > "Markup and Document Exchange Protocol" or a "simple document to accompany initial drafts of agreement documents to establish ... preferred protocols."
 
-My clients are the best.  Really.  But that sounds awful.  I mean really awful.  Worse than doing my taxes awful.  So instead, let's just invent eight practical rules for closing contracts:
+My clients are the best.  Really.  But that sounds awful.  I mean really awful.  Worse than doing my taxes awful.  So instead, let's just invent eight practical steps for closing contracts:
 
 ###(1) The customer and the supplier meet in person
 Or at least via teleconference.  To ensure ... or let's be realistic at least significantly increase the likelihood ... that we all ... at least broadly ... understand the scope of the services that will be provided by the supplier to the customer.
@@ -83,7 +83,7 @@ Close.  Close.  Close.  Apparently it is as simple as [ABC](http://www.youtube.c
 ---
 
 #### Footnotes
-[<a id="1">1</a>]: Because 7 (Samurai) was taken.  And because 8 is lucky.  And because proposing [x] rules for [y] things is apparently fantastic clickbait.  And 8  seems real because it is not divisible by 5.  Luck + clicks = profit!
+[<a id="1">1</a>]: Because 7 (Samurai) was taken.  And because 8 is lucky.  And because proposing [x] rules for [y] things is fantastic clickbait.  Apparently.  And 8 seems real because it is not divisible by 5.  Luck + clicks = profit!
 
 [<a id="2">2</a>]: Drawing the line between "important" and "unimportant" contracts is tricky.  Many of the above rules break down for smaller or less important agreements.  Or if the supplier has significant market power.  Like Newtonian physics breaks down when we get quantum.  Or appears to.  Is it just me, or are theoretical physicists just making whole areas of study up at this point? ...
 
