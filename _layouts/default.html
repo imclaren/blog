@@ -19,25 +19,38 @@
             <div class="navbar navbar-fixed-top">
               <div class="navbar-inner">
                 <div class="container-fluid">
-                  <div class="brand">
-                <![endif]--> 
-                    <a href="/" title="Home">{{ site.title }}</a>
-                  <!-- <small>{{ site.tagline }}</small> -->
-                  <!--[if lt IE 9 ]>
-                  </div>
-                  {% assign pages_list = site.pages %}
-                  {% for node in pages_list %}
-                    {% if node.title != null %}
-                      {% if node.layout == "page" %}
-                        | <a href="{{ node.url }}">{{ node.title }}</a>
-                      {% endif %}
-                    {% endif %}
-                  {% endfor %}
+                  <ul class="nav pull-left">
+                    <div class="brand">
+                      <![endif]--> 
+                      <a href="/" title="Home">{{ site.title }}</a>
+                      <!-- <small>{{ site.tagline }}</small> -->
+                      <!--[if lt IE 9 ]>
+                    </div>
+                  </ul>
 
-                  | <a href="https://files.iainmclaren.com">Secure Portal</a>
-                  | <a href="http://linkedin.com/in/iainmclaren">About</a>
-                  | <a href="mailto:admin@iainmclaren.com">admin@iainmclaren.com</a>
-                  <a class="brand" href="/">{{ site.title }}</a>
+                  <ul class="nav pull-right">
+                    <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <i class="icon-cog"></i>
+                        <b class="caret"></b>
+                      </a>
+                      <ul class="dropdown-menu">
+                        {% assign pages_list = site.pages %}
+                        {% for node in pages_list %}
+                          {% if node.title != null %}
+                            {% if node.layout == "page" %}
+                              <li><a href="{{ node.url }}">{{ node.title }}</a></li>
+                            {% endif %}
+                          {% endif %}
+                        {% endfor %}
+                        <li><a href="https://files.iainmclaren.com">Secure Portal</a></li>
+                        <li><a href="http://linkedin.com/in/iainmclaren">About</a></li>
+                        <li class="divider"></li>
+                        <li><a href="mailto:admin@iainmclaren.com">admin@iainmclaren.com</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+
                 </div>
               </div>
             </div>
