@@ -19,11 +19,12 @@
             <div class="navbar navbar-fixed-top">
               <div class="navbar-inner">
                 <div class="container-fluid">
+                  <div class="brand">
                 <![endif]--> 
-                  <a href="/" title="Home">{{ site.title }}</a>
+                    <a href="/" title="Home">{{ site.title }}</a>
                   <!-- <small>{{ site.tagline }}</small> -->
-
                   <!--[if lt IE 9 ]>
+                  </div>
                   {% assign pages_list = site.pages %}
                   {% for node in pages_list %}
                     {% if node.title != null %}
