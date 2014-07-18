@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            'Iain McLaren'
 tagline:          red flag
-description:      '<a href="http://iainmclaren.com" target="_blank">Iain McLaren</a>'
+description:      '<a href="http://iainmclaren.com">red flag</a>'
 url:              http://iainmclaren.com
 baseurl:          '/'
 paginate:         5
