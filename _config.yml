@@ -13,7 +13,7 @@ tagline:          ''
 description:      ''
 url:              http://iainmclaren.com
 baseurl:          '/'
-paginate:         5
+paginate:         1
 
 author:
   name:           'Iain McLaren'
