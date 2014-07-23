@@ -5,7 +5,7 @@ title: Are banks doomed?
 
 *Telecommunications services were commoditised in the early 2000s. Are banks next?*
 
-![Banking](https://farm8.staticflickr.com/7097/7222620906_eed67358b3_z.jpg "Banking")
+![Banking](http://iainmclaren.com/public/images/2014-07-23-are-banks-doomed_7222620906_eed67358b3_z.jpg "Banking")
 
 Photo: [Alexandre Dulaunoy](https://www.flickr.com/photos/adulau/) ([Some rights reserved](https://creativecommons.org/licenses/by-sa/2.0/))
 
@@ -56,7 +56,7 @@ Banks also provide lots of other services.  Including, importantly, liquidity to
 
 Therefore the telcos may be in a better position than the banks.  Telcos have infrastructure (i.e. the landlines, fibre networks, and wireless spectrum) that may become, or arguably already are, commodities.  But people still need this telco infrastructure to actually use telecommunications and internet services (i.e. to make phone calls and access the internet). 
 
-On the other hand, unlike telcos, if all of the bank "infrastructure" (other than possibly ATMs) went away, in the long term how much would that effect the average banking customer?  
+On the other hand, unlike telcos, if all of the bank "infrastructure" (other than possibly ATMs) dissapeared, in the long term how much would that effect the average banking customer?  
 
 In other words, do these current bank customers actually need to deal with banks?  Especially if bank competitors (e.g [bitcoin](http://en.wikipedia.org/wiki/Bitcoin) or [paypal](http://paypal.com)) provide ways to store money, pay for goods and services (removing the requirement for cards, ATMs, and physical cash), and loan money to customers at scale (e.g. and don't laugh, by [croudsourcing](https://angel.co)).
 
