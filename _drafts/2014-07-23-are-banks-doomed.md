@@ -54,7 +54,7 @@ Banks also provide lots of other services.  Including, importantly, liquidity to
 - provide "wealth" services, superannuation and insurance advice;
 - etc.
 
-Therefore the telcos are arguably in a better position than the banks.  Telcos have infrastructure (i.e. the landlines, fibre networks, and wireless spectrum) that may become, or arguably already are,  commodities.  But people still need this telco infrastructure to actually use telecommunications and internet services (i.e. to make phone calls and access the internet). 
+Therefore the telcos may be in a better position than the banks.  Telcos have infrastructure (i.e. the landlines, fibre networks, and wireless spectrum) that may become, or arguably already are, commodities.  But people still need this telco infrastructure to actually use telecommunications and internet services (i.e. to make phone calls and access the internet). 
 
 On the other hand, unlike telcos, if all of the bank "infrastructure" (other than possibly ATMs) went away, in the long term how much would that effect the average banking customer?  
 
