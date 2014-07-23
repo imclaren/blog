@@ -42,6 +42,7 @@ This brings us to banks.
 I am sure that this is true, but I think that the article  misses the wider point.  We should instead be asking whether banks are failing to provide "digital" services because banks are not ready, or because banks cannot (i.e. are not built to) compete with dedicated technology service providers.
 
 Let's take a step back.  What services do banks actually provide?  For most individual customers, banks (in Western countries at least):
+
 - store their money in savings accounts;
 - allow customers to pay for goods and services using debit and credit cards;
 - allow customers to withdraw cash from ATMs;
