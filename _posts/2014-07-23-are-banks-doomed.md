@@ -9,7 +9,7 @@ title: Are banks doomed?
 
 Photo: [Alexandre Dulaunoy](https://www.flickr.com/photos/adulau/) ([Some rights reserved](https://creativecommons.org/licenses/by-sa/2.0/))
 
-###1. The rise and fall of the telcos
+##1. The rise and fall of the telcos
 
 [Ben Evans](http://ben-evans.com) recently made the point (in [Unbundling innovation: Samsung, PCs and China](http://ben-evans.com/benedictevans/2014/7/10/unbundling-innovation)) that most truly innovative internet services are invented by companies that are built (from the ground up) to sell technology to third parties.  In other words, by companies that sell technology services as their core business.    
 
@@ -33,7 +33,7 @@ In other words, the [iPhone](https://www.apple.com/iphone/) and then [Android](h
 
 Specialist technology service providers sold (i.e. unbundled) physical phones and services from the infrastructure owned by the telcos.  And you have to think that the telcos will never again make enormous margins on these services (e.g. phone minutes and SMS). 
 
-### 2. Will banking services also be commoditised?
+## 2. Will banking services also be commoditised?
 
 This brings us to banks.
 
@@ -62,7 +62,7 @@ On the other hand, unlike telcos, if all of the bank "infrastructure" (other tha
 
 In other words, do these current bank customers actually need to deal with banks?  Especially if bank competitors (e.g [bitcoin](http://en.wikipedia.org/wiki/Bitcoin) or [paypal](http://paypal.com)) provide ways to store money, pay for goods and services (removing the requirement for cards, ATMs, and physical cash), and loan money to customers at scale (e.g. and don't laugh, by [croudsourcing](https://angel.co)).
 
-### 3. Are banks doomed?
+## 3. Are banks doomed?
 
 No.  I think.  But here is Ben again: 
 
