@@ -50,6 +50,7 @@ Let's take a step back.  What services do banks actually provide?  For most indi
 - loan money to these customers (for houses and other tangible goods).
 
 Banks also provide lots of other services.  Including, importantly, liquidity to businesses and individuals.  And I am sure that I have missed other key services.  But I think that the above gives us a general idea of the core reasons why most individual customers use banks.  For example, customers can also:
+
 - go into a branch (although, unless there is some sort of problem, how often do they do this?);
 - pay for goods and services using cheques (a payment method that cannot be much longer for this world);
 - provide "wealth" services, superannuation and insurance advice;
