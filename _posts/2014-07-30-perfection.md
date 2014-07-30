@@ -5,7 +5,7 @@ title: Perfection is worth risking your company and your job
 
 *Fight the culture of cutting corners.*
 
-![Perfection](http://iainmclaren.com/public/images/2014-08-06-perfection_8752354681_07454f65c8.jpg "Perfection")
+![Perfection](http://iainmclaren.com/public/images/2014-08-06-perfection_8752354681_07454f65c8_b.jpg "Perfection")
 
 Photo: [Alexandre Dulaunoy](https://www.flickr.com/photos/adulau/) ([Some rights reserved](https://creativecommons.org/licenses/by-sa/2.0/))
 
