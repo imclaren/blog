@@ -25,7 +25,7 @@ It doesn't matter the industry.  For me, it is a contract for a major project wh
 
 > Average, “good enough” work is no longer good enough. Our success, our products, and our reputations all rest on the details, the delight, the intention, and the vision we bring to our work.
 
-If I start with the easy, wrong, answer.  Or even the assumption of failure.  Then I don't learn.  But worse than that, the problem always returns eventually.  And magnified.  
+If I start with the easy, wrong, answer.  Or even the assumption of failure.  Then I don't learn.  But worse than that, the problem always returns.  Eventually and magnified.  
 
 ### 3.  Embrace perfection
 
@@ -33,9 +33,9 @@ Insisting on perfection at work is very hard in practice.  And I realise that I 
 
 > [o]f course, it’s actually more complicated than that. A person might decide to break the norms ... because his moral compass tells him to ... [and] sometimes we decide a norm breaker did the right thing. 
 
-Let's stop using "risk management" as code for hiding the broken.  Or accepting poor work (or even failure) as inevitable.  Because the greatest risk to our companies and our jobs is the embrace of mediocrity.  
+Let's stop using "risk management" as code for hiding the broken.  Or accepting poor work (or even failure) as inevitable.  Because the greatest risk to our companies and our jobs is to embrace mediocrity.  
 
-Instead, let's risk [embracing (minor deviations from) perfection](http://www.youtube.com/watch?v=suRDUFpsHus).  
+Instead, let's risk embracing ([minor deviations from](http://www.youtube.com/watch?v=suRDUFpsHus)) perfection.  
 
 ---
 
