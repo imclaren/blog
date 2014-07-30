@@ -13,7 +13,7 @@ Photo: [Alexandre Dulaunoy](https://www.flickr.com/photos/adulau/) ([Some rights
 
 We are paid to get it right.  That is how I was trained.  Typos were not tolerated.  Never-mind out-and-out mistakes.  It was built into our organisational culture.  But we live in a world of risk and it is surprisingly easy to let mistakes slide.  At least for a while.  And as Peter Drucker (famously allegedly) once said:
 
->*"culture eats strategy for breakfast."*  
+>*culture eats strategy for breakfast.*  
 
 "Risk management".  That's the euphemism that we use at work when we want to do the wrong thing.  Or the easy thing.  When the hard thing is the right thing.  I may be an [outlier](https://www.schneier.com/book-lo.html) on this issue.  But I think that true risk management starts with the perfect solution.  And we should only accept (minor changes to) perfection.  We should not accept second best.  Or that our only option is to accept the average. 
 
