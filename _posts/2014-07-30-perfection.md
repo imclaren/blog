@@ -3,7 +3,7 @@ layout: post
 title: Perfection is worth risking your company and your job
 ---
 
-*It's treason to fight the culture of cutting corners.  It shouldn't be.*
+*Fight the culture of cutting corners.*
 
 ![Perfection](http://iainmclaren.com/public/images/2014-08-06-perfection_8752354681_07454f65c8.jpg "Perfection")
 
@@ -19,7 +19,7 @@ We are paid to get it right.  That is how I was trained.  Typos were not tolerat
 
 It doesn't matter the industry.  For me, it is a contract for a major project where I would not change a single word in a single clause.   Or a software program when I know.  Just know.  That I won't change it no matter how long I stare at the lines and lines of code.  
 
-### 2.  Compromise means doing it almost perfectly.  Not doing it wrong.
+### 2.  Compromise means do it almost perfectly.  Not do it wrong.
 
 "Boiling the ocean".  That's how we criticise our colleagues for taking the time to do it right.  And of course, of course, we should consider reasonable compromises to reduce costs, and rapidly solve problems.  But as [Shawn Blank](https://shawnblanc.net/thedetails/) says:
 
@@ -27,7 +27,7 @@ It doesn't matter the industry.  For me, it is a contract for a major project wh
 
 If I start with the easy, wrong, answer.  Or even the assumption of failure.  Then I don't learn.  But worse than that, the problem always returns eventually.  And magnified.  
 
-### 3.  Embracing perfection
+### 3.  Embrace perfection
 
 Insisting on perfection at work is very hard in practice.  And I realise that I may be in the minority here.  But as [Bruce Schneier](https://www.schneier.com/book-lo.html) says: 
 
