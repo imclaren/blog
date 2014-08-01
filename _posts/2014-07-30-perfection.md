@@ -33,9 +33,9 @@ Insisting on perfection at work is very hard in practice.  And I realise that I 
 
 > [o]f course, it’s actually more complicated than that. A person might decide to break the norms ... because his moral compass tells him to ... [and] sometimes we decide a norm breaker did the right thing. 
 
-Let's stop using "risk management" as code for hiding the broken.  Or accepting poor work (or even failure) as inevitable.  Because the greatest risk to our companies and our jobs is the embrace of mediocrity.  
+Let's stop using "risk management" as code for hiding the broken. Or accepting poor work (or even failure) as inevitable. Because the greatest risk to our companies and our jobs is the embrace of mediocrity.
 
-Instead, let's risk embracing ([minor deviations from](http://www.youtube.com/watch?v=suRDUFpsHus)) perfection.  
+Instead, let's risk striving for ([minor deviations from](http://www.youtube.com/watch?v=suRDUFpsHus)) perfection.  
 
 ---
 
