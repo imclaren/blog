@@ -5,7 +5,7 @@ title: Robin Williams (1951 – 2014)
 
 *He was a giant*
 
-![Robin Williams](https://farm4.staticflickr.com/3188/2659790309_8bf28dd6db_z.jpg "Robin Williams")
+![Robin Williams](http://iainmclaren.com/public/images/robin-williams.jpg "Robin Williams")
 
 Photo: [Ron Henry Photography](https://www.flickr.com/photos/ronhenry/) ([Some rights reserved](https://creativecommons.org/licenses/by-sa/2.0/))
 
