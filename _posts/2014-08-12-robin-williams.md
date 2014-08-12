@@ -41,7 +41,7 @@ I can't bring myself to link to any of his clips and movies.  Well OK, just one.
 
 > You're in France!  Walk outside!  Walk down a block! Look around you idiot!  What are you stupid?! ... Look around you why must you ask a phone? Live your life! Taking pictures with your phone?!  Look! Look.  And then paint!
 
-So instead I will link to this video of what [Keith Olbermann said when David Letterman retired](https://www.youtube.com/watch?v=yfkd4i9Hlsc).  An ode to another genius comedian:
+So instead I will link to this video of what [Keith Olbermann said when David Letterman retired](https://www.youtube.com/watch?v=yfkd4i9Hlsc).  An ode to another comedian genius:
 
 > For all the other days I just stared and laughed at how many times better he was than me or anybody else I'd ever seen.  Babe Ruth announced he's retiring today.
 
