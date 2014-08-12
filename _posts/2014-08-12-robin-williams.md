@@ -9,7 +9,7 @@ title: Robin Williams (1951 – 2014)
 
 Photo: [Ron Henry Photography](https://www.flickr.com/photos/ronhenry/) ([Some rights reserved](https://creativecommons.org/licenses/by-sa/2.0/))
 
-#### 1. He was a genius  
+### 1. He was a genius  
 
 How do we start.  Even start.  To get to grips with how important Robin Williams was to my generation.  How can I even start to explain how important he was to me?
 
@@ -19,7 +19,7 @@ Robin Williams always induced the other type of laugh.  That deep, intensely per
 
 Attempting to explain his importance is like trying to explain how important Derek Jeter is to someone who has never seen a game of baseball.  [Nike nailed it](https://www.youtube.com/watch?v=d7I4tpYg05Y).  Watch that video.  Please.  And then come back.
 
-#### 2. There is no way that I'm going to the movies to see a stupid cartoon
+### 2. There is no way that I'm going to the movies to see a stupid cartoon
 
 The year was 1992.  I was in year 10 (the third last year of school).  Some friends of a girl who I was sort of seeing at the time (I had made the whole thing unnecessarily complicated) suggested that we all go to the movies to see Aladdin.  Long story short, she was wonderful and I was very very stupid.  In my defence, I was only, what, 16, at the time?  But that is no excuse.  I completely stuffed the whole thing up.  If she is reading this, then I really am truly sorry.  I only have a few genuine regrets in life and that is one of them.
 
@@ -27,7 +27,7 @@ But anyway.  This was before all of that.  Her friends suggested, and then incre
 
 For the youngsters out there, it's important to remember that this was the first.  The very first.  Animated movie that was funny for both adults and children.  I was absolutely convinced that it would be an excruciating waste of time.  And even the prospect of going to the movies with this very nice girl was not enough to convince me to go.
 
-#### 3. His genius was that he made it look effortless
+### 3. His genius was that he made it look effortless
 
 Boy was I stupid.  I never did see Aladdin at the movies, and it is one of the funniest movies that I have ever seen.  What makes it so great is that you get the impression that the producer and director put Robin Williams in front of a microphone, and said:
 
@@ -35,7 +35,7 @@ Boy was I stupid.  I never did see Aladdin at the movies, and it is one of the f
 
 I mean, he used to go on talk shows, and the host would basically say the name of one celebrity after another, and off he would go.  Now perhaps he spent the rest of his life preparing material so that he could be ready for these *"be funny - go!"* requests.  But I don't think so.  He was just too quick.  And just too immediately and instantly funny.  He was obviously doing bits on the spot.  Bits that other comedians would spend months preparing and pouring over.  Bits that other comedians would kill for.
 
-#### 4. Saying thanks seems like nothing at all
+### 4. Saying thanks seems like nothing at all
 
 I can't bring myself to link to any of his clips and movies.  Well OK, just one.  His recent hilarious impression of [what a stereotypical French phone (French Siri) might say if you asked it for a restaurant recommendation in France](https://www.youtube.com/watch?v=0dI-WZ5cvM0).
 
