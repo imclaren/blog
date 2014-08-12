@@ -15,7 +15,7 @@ How do we start.  Even start.  To get to grips with how important Robin Williams
 
 I don't think it's possible.  It's like trying to explain the importance of family.  My friends used to make fun of me by pointing out that I have two types of laugh.  One is an everyday laugh.  The way that I laugh when a colleague tells a joke.  A wry, amused laugh.  It's real, but it's the light milk of laughs.
 
-Robin Williams always induced the other type of laugh.  That deep, intensely personal, belly laugh.  The laugh in spite of ourselves.  Or the laugh that children laugh.  His genius was that he didn't need to shock or offend.  He could, without fail, make us laugh out loud using nothing but family friendly material and celebrity impressions.  He was so funny.  He was so integral to what we thought of as being genuinely funny that he became the epitome of funny.  He became a part of who we are.  He is a part of who we are.
+Robin Williams always induced the other type of laugh.  That deep, intensely personal, belly laugh.  The laugh in spite of ourselves.  The laugh that children laugh.  His genius was that he didn't need to shock or offend.  He could, without fail, make us laugh out loud using nothing but family friendly material and celebrity impressions.  He was so funny.  He was so integral to what we thought of as being genuinely funny that he became the epitome of funny.  He became a part of who we are.  He is a part of who we are.
 
 Attempting to explain his importance is like trying to explain how important Derek Jeter is to someone who has never seen a game of baseball.  [Nike nailed it](https://www.youtube.com/watch?v=d7I4tpYg05Y).  Watch that video.  Please.  And then come back.
 
