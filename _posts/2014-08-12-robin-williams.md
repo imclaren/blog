@@ -39,7 +39,7 @@ I mean, he used to go on talk shows, and the host would basically say the name o
 
 I can't bring myself to link to any of his clips and movies.  Well OK, just one.  His recent hilarious impression of [what a stereotypical French phone (French Siri) might say if you asked it for a restaurant recommendation in France](https://www.youtube.com/watch?v=0dI-WZ5cvM0).
 
-> You're in France!  Walk outside!  Walk down a block! Look around you idiot!  What are you stupid?! ... Look around you why must you ask a phone? Live your life! Taking pictures with your phone?!  Look! Look.  And then paint!
+> You're in France!  Walk outside!  Walk down a block! Look around you idiot!  What are you stupid?! ... Look around you.  Why must you ask a phone? Live your life! Taking pictures with your phone?!  Look! Look.  And then paint!
 
 So instead I will link to this video of what [Keith Olbermann said when David Letterman retired](https://www.youtube.com/watch?v=yfkd4i9Hlsc).  An ode to another genius comedian:
 
