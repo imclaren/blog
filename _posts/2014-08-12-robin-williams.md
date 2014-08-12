@@ -23,7 +23,7 @@ Attempting to explain his importance is like trying to explain how important Der
 
 The year was 1992.  I was in year 10 (the third last year of school).  Some friends of a girl who I was sort of seeing at the time (I had made the whole thing unnecessarily complicated) suggested that we all go to the movies to see Aladdin.  Long story short, she was wonderful and I was very very stupid.  In my defence, I was only, what, 16, at the time?  But that is no excuse.  I completely stuffed the whole thing up.  If she is reading this, then I really am truly sorry.  I only have a few genuine regrets in life and that is one of them.
 
-But anyway.  This was before all of that.  Her friends suggested, and then increasingly insisted, that we all go to the movies to see Aladdin.
+But anyway.  This was before all of that.  Her friends suggested, and then insisted with ever-increasing intensity, that we all go to the movies to see Aladdin.
 
 For the youngsters out there, it's important to remember that this was the first.  The very first.  Animated movie that was funny for both adults and children.  I was absolutely convinced that it would be an excruciating waste of time.  And even the prospect of going to the movies with this very nice girl was not enough to convince me to go.
 
