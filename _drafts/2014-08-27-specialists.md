@@ -66,13 +66,13 @@ Because by the time that you interview (or meet) these people, these superstars 
 
 They will already be experts.  They will already be specialists.  They will already have been accepted into (and completed) a competitive university course.  Or they will have already built their own rocket ship.  Or whatever.
 
-And ... um ... sorry ... what do you mean:
+And ... er ... sorry ... what do you mean:
 
 > Why would I want to hire a superstar?
 
 And:
 
-> Won't they be a pain in the neck? 
+> Won't they make my life difficult? 
 
 Sorry, I can't help you there.  Well, maybe I should write another article about how to identify superstar employers ...
 
