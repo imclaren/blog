@@ -5,7 +5,7 @@ title: How to hire a superstar
 
 *Superstars are specialists*  
  
-![Specialist](https://farm4.staticflickr.com/3838/14462559987_fbbe38d589_b.jpg)
+![Specialists](http://iainmclaren.com/public/images/specialists.jpg "Specialists")
 
 Photo: [Kevin Dinkel](https://www.flickr.com/photos/121776594@N07/) ([Some rights reserved](https://creativecommons.org/licenses/by-sa/2.0/))
 
