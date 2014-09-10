@@ -2,16 +2,7 @@
 ---
 [
 {% for post in site.posts %}
-  {% include post.json %},
-{% endfor %}
-{% for item in site.categories.projects %}
-  {% include post.json %},
-{% endfor %}
-{% for item in site.categories.team %}
-  {% include post.json %},
-{% endfor %}
-{% for item in site.categories.blog limit:200 %}
-  {% include post.json %},
+	{ { post.url },{ post.title },{ post.date | date: "%-d %B %Y" } },
 {% endfor %}
 false
 ]
