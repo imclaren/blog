@@ -1,7 +1,7 @@
 ---
 ---
 [
-{% for item in site.categories.about %}
+{% for post in site.posts %}
   {% include post.json %},
 {% endfor %}
 {% for item in site.categories.projects %}
