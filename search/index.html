@@ -1,37 +1,37 @@
----
-layout: default
-title: Search
-search_omit: true
----
 
-  <h1>Search</h1>
-  
-  <!-- Search form -->
-  <form method="get" action="/search" data-search-form>
-    <label for="q">Search term</label>
-    <input type="search" name="q" id="q" placeholder="Enter search term" data-search-input />
-    <input type="submit" value="Search" />
-  </form>
-
-  <!-- Search results placeholder -->
-  <p data-search-found>
-    <span data-search-found-count></span> result(s) found for &ldquo;<span data-search-found-term></span>&rdquo;.
-  </p>
-  <div data-search-results></div>
-
-
-
-  <!-- Search result template -->
-  <script type="text/x-template" id="search-result">
-    <div>
-      <h1><a href="##Url##">##Title##</a></h1>
-      <h2><a href="##Url##">##Date##</a></h2>
-      <a href="##Url##">Read &ldquo;##Title##&rdquo;</a>
+<html>
+  <head>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <title>Comperio Super Simple Instant Search</title>
+  </head>
+  <body>
+  <h1>Search Wikipedia!</h1>
+  <br />
+    <input id="searchterm" />
+    <button id="search">search</button>
+    <div id="results"></div>
+    <script>
+      $("#searchterm").keyup(function(e){
+        var q = $("#searchterm").val();
+        $.getJSON("http://en.wikipedia.org/w/api.php?callback=?",
+        {
+          srsearch: q,
+          action: "query",
+          list: "search",
+          format: "json"
+        },
+        function(data) {
+          $("#results").empty();
+          $("#results").append("<p>Results for <b>" + q + "</b></p>");
+          $.each(data.query.search, function(i,item){
+            $("#results").append("<div><a href='http://en.wikipedia.org/wiki/" + encodeURIComponent(item.title) + "'>" + item.title + "</a><br>" + item.snippet + "<br><br></div>");
+          });
+        });
+      });
+    </script>
+    <div style="position:absolute;bottom:0;right:0;text-align:right">
+      <a href="http://blog.comperiosearch.com/author/fmcdowall/">Fergus McDowall</a> 2012<br>
+      <br>
     </div>
-  </script>
-
-  <!-- jQuery - required but can be moved to the <head> -->
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
-  <!-- Search script - Must appear after template -->
-  <script src="/public/js/search.js"></script>
+  </body>
+</html>
