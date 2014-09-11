@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robin Williams (1951 – 2014)
+title: Robin Williams (1951 - 2014)
 ---
 
 *He was a giant*
