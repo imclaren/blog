@@ -13,7 +13,7 @@
     <script>
       $("#searchterm").keyup(function(e){
         var q = $("#searchterm").val();
-        $.getJSON("/search.json?callback=?",
+        $.getJSON("/search.json",
         {
           srsearch: q,
           action: "query",
