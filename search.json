@@ -4,23 +4,23 @@ layout: none
 [
 {% for post in site.posts %}
     {% if post.title != null and post.title != empty and post.search_omit != true %}
-        {% if forloop.index > 1 %},{%endif%}{
+        {% if forloop.index > 1 %},{%endif%} {
             "title": "{{post.title | json}}",
-             "link": "{{ site.url }}{{ post.url }}",
+            "link": "{{ site.url }}{{ post.url }}",
             "date": "{{ post.date | json }}",
             "excerpt": "{{ post.snippet | json }}"
-        }
+        } 
     {%endif%}
 {% endfor %}
 
 {% for page in site.pages %}
     {% if page.layout != 'none' and page.layout != 'none' and page.title != null and page.title != empty and page.search_omit != true %}
         {% if forloop.index > 1 %},{%endif%}{
-            "title": "{{page.title | json }}",
+           "title": "{{page.title | json }}",
            "link": "{{ site.url }}{{ page.url | replace: 'index.html', '' }}",
-            "date": "{{ page.date | json }}",
-            "excerpt": "{{ page.description | json }}"
-        }
+           "date": "{{ page.date | json }}",
+           "excerpt": "{{ page.description | json }}"
+        } 
     {%endif%}
 {% endfor %}
 ]
