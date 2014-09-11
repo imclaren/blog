@@ -6,8 +6,7 @@ layout: none
     {% if post.title != null and post.title != empty and post.search_omit != true %}
         {% if forloop.index > 1 %},{%endif%}{
             "title": "{{post.title | json}}",
-            //"content": " {{post.content | markdownify | strip_html | json}} ",
-            "link": "{{ site.url }}{{ post.url }}",
+             "link": "{{ site.url }}{{ post.url }}",
             "date": "{{ post.date | json }}",
             "excerpt": "{{ post.snippet | json }}"
         }
@@ -18,8 +17,7 @@ layout: none
     {% if page.layout != 'none' and page.layout != 'none' and page.title != null and page.title != empty and page.search_omit != true %}
         {% if forloop.index > 1 %},{%endif%}{
             "title": "{{page.title | json }}",
-            //"content": " {{page.content | strip_html | strip_newlines | json}} ",
-            "link": "{{ site.url }}{{ page.url | replace: 'index.html', '' }}",
+           "link": "{{ site.url }}{{ page.url | replace: 'index.html', '' }}",
             "date": "{{ page.date | json }}",
             "excerpt": "{{ page.description | json }}"
         }
