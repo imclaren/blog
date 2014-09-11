@@ -1,37 +1,28 @@
-
 <html>
-  <head>
-    <script src="http://code.jquery.com/jquery-latest.js"></script>
-    <title>Comperio Super Simple Instant Search</title>
-  </head>
-  <body>
-  <h1>Search Wikipedia!</h1>
-  <br />
-    <input id="searchterm" />
-    <button id="search">search</button>
-    <div id="results"></div>
-    <script>
-      $("#searchterm").keyup(function(e){
-        var q = $("#searchterm").val();
-        $.getJSON("/search.json",
-        {
-          srsearch: q,
-          action: "query",
-          list: "search",
-          format: "json"
-        },
-        function(data) {
-          $("#results").empty();
-          $("#results").append("<p>Results for <b>" + q + "</b></p>");
-          $.each(data.query.search, function(i,item){
-            $("#results").append("<div><a href='http://en.wikipedia.org/wiki/" + encodeURIComponent(item.title) + "'>" + item.title + "</a><br>" + item.snippet + "<br><br></div>");
-          });
-        });
+<head>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script>
+  $("#searchterm").keyup(function(e){
+    var q = $("#searchterm").val();
+    $.getJSON("/search.json",
+    {
+      srsearch: q,
+      action: "query",
+      list: "search",
+      format: "json"
+    },
+    function(data) {
+      $("#results").empty();
+      $("#results").append("<p>Results for <b>" + q + "</b></p>");
+      $.each(data.query.search, function(i, item){
+        $("#results").append(item.name);
       });
-    </script>
-    <div style="position:absolute;bottom:0;right:0;text-align:right">
-      <a href="http://blog.comperiosearch.com/author/fmcdowall/">Fergus McDowall</a> 2012<br>
-      <br>
-    </div>
-  </body>
+    });
+  });
+</script>
+</head>
+<body>
+<input id="searchterm" type="text" /> <button id="search">search</button>
+<div id="results"></div>
+</body>
 </html>
