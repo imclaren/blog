@@ -5,7 +5,7 @@ title: Why are manufacturers and retailers more efficient than services companie
 
 *The former win or die based on the efficiency of their supply chains*
 
-![Supplychain](https://iainmclaren.com/public/images/2014-09-17-procurement.jpg)
+![Supplychain](http://iainmclaren.com/public/images/2014-09-17-procurement.jpg)
 
 Photo: [raffacama](https://www.flickr.com/photos/raffacama/) ([Some rights reserved](https://creativecommons.org/licenses/by-sa/2.0/))
  
