@@ -89,6 +89,8 @@ Have you noticed that the car industry, large shopping centres, and transport co
  </tr>
 </table>
 
+---
+
 ### 2. Organisations with a supply chain focus are usually incredibly sophisticated  
 
 The car industry is famous for the sophistication of its supply chain and procurement methodologies.  But the car industry is not alone – all organisations in industries, that live or die based on the efficiency of their supply chains, only survive if they have world class operations, and world class procurement functions.
