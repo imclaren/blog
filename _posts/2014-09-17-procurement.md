@@ -109,13 +109,13 @@ Therefore, if our business is in an industry that does not live or die based on 
 
 And focusing on people and technology (rather than the supply chain) requires a nuanced industry and company specific approach.  There is something to be said for the simplicity of simply being required to squeeze supply chains.  Even if the process of actually squeezing these supply chains is extremely hard to do well. 
 
-### 4. Building business processes based on your industry type
+### 4. How to build your business
 
 So my friend's task is to build world-class operational and procurement processes for a business, that is in an industry, that does not win or die based on the efficiency of its supply chains.
 
-And while all companies are (obviously) different, we can use one (or more) of the innumerable established business process improvement methodologies when we focus on improving supply chains.  
+And while all companies are (obviously) different, we can use one (or more) of the innumerable established business process improvement methodologies when we focus on improving supply chains.
 
-But industries that instead focus on improvements in relation to their people and technology (and do not win or die based on the efficiency of their supply chains) require a different approach. And possibly (and definitely arguably) a more nuanced approach. 
+But industries that instead focus on improvements in relation to their people and technology (and do not win or die based on the efficiency of their supply chains) require a different approach. And possibly (and definitely arguably) a more nuanced approach.
 
 *"So it's easy."* I said.  And the executive laughed. 
 
