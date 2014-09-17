@@ -20,6 +20,8 @@ Have you noticed that the car industry, large shopping centres, and transport co
 - organisations that either win or die based on the **efficiency of their supply chains**; and
 - organisations that do not, and therefore focus (hopefully relentlessly) on the **cost and quality of their people and technology**.  
 
+---
+
 ######Table 1 - Cost and efficiency focus by industry
 
 <table>
