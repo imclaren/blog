@@ -76,7 +76,7 @@ And:
 
 > Won't they make my life difficult? 
 
-Ah, I'm sorry.  I can't help you there.  But now that you mention it, maybe I should write another article about how candidates can identify superstar employers ...
+Ah, I'm sorry.  I can't help you there.  But now that you mention it, maybe I should write another article about how to identify superstar employers ...
 
 ---
 
