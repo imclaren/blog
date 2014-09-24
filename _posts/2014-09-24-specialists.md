@@ -50,7 +50,7 @@ And to win.  Or more to the point, to have won.  Our candidate must have learned
 
 Only specialists get hard things done.  
 
-### 4. A superstars may be a specialist in another field
+### 4. A superstar may be a specialist in another field
 
 Or possibly a few fields.  But avoid the candidate who is apparently generally (and generically) great.  Avoid potential hires who are not, and have never been, specialists in any field.
 
