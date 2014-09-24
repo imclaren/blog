@@ -52,7 +52,7 @@ Only specialists get hard things done.
 
 ### 4. A superstars may be a specialist in another field
 
-And possibly a few fields.  But avoid the candidate who is apparently generally (and generically) great.  Avoid potential hires who are not, and have never been, specialists in any field.
+Or possibly a few fields.  But avoid the candidate who is apparently generally (and generically) great.  Avoid potential hires who are not, and have never been, specialists in any field.
 
 And obviously we would prefer that our new hire has a demonstrated passion for their new job (or at least industry).  But this is not an absolute requirement,  particularly for relatively junior employees.  
 
