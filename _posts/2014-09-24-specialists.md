@@ -56,7 +56,7 @@ Or possibly a few fields.  But avoid the candidate who is apparently generally (
 
 And obviously we would prefer that our new hire has a demonstrated passion for their new job (or at least industry).  But this is not an absolute requirement,  particularly for relatively junior employees.  
 
-Superstars are passionate about their area of expertise.  And your candidate is passionate, then the hiring decision should be obvious.  Still in doubt?  Help me out Joel:
+Superstars are passionate about their area of expertise.  And if your candidate is passionate, then the hiring decision should be obvious.  Still in doubt?  Help me out Joel:
 
 > Never say “Maybe, I can’t tell.” If you can’t tell, that means No Hire. It’s really easier than you’d think. Can’t tell? Just say no! If you are on the fence, that means No Hire. Never say, “Well, Hire, I guess, but I’m a little bit concerned about…” That’s a No Hire as well. Mechanically translate all the waffling to “no” and you’ll be all right.
 
