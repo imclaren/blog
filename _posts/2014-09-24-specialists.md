@@ -62,7 +62,7 @@ Superstars are passionate about their area of expertise.  And if your candidate 
 
 > Why am I so hard-nosed about this? It’s because it is much, much better to reject a good candidate than to accept a bad candidate. A bad candidate will cost a lot of money and effort and waste other people’s time ...
 
-### 4. Specialists do hard things and great things
+### 5. Specialists do hard things and great things
 
 By the time that you interview (or meet) your candidate, they (whether junior or not) will have already accomplished something demonstrably hard.    And hopefully something demonstrably great.  
 
