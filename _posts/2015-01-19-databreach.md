@@ -43,7 +43,7 @@ William Gibson is a science fiction writer best known for coining the term "cybe
 
 Gibson foresaw that the missing link, that will make widespread catastrophic security breaches possible, is easier money laundering.
 
-### 4. And company data breaches will be catastrophic when money can be easily laundered
+### 4. And company data breaches will be catastrophic once money can be easily laundered
 
 Let's assume that it is only a matter of time before digital currencies such as bitcoin, that can be stored and transmitted anonymously, become mainstream.  These currencies will, at least initially, operate alongside traditional currencies backed by national governments.
 
