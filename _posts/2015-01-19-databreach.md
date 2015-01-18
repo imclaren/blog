@@ -53,7 +53,7 @@ Credit cards can be cancelled, and money transfers can be tracked.  Currently, h
 
 But when a data breach is no longer a credit card breach, then hackers will target systems and companies that hold digital currency.  Because in a world of instant payments, all of our money, and our customers' money, can be instantly and irretrievably stolen.  Taking us and our customers with us.  Hackers will be able to access company systems because of existing lax company security standards.  And hackers will be able to steal vast amounts of money as soon as anonymous digital currencies become mainstream.
 
-We will soon see this play out in reality.  
+We see this play out in reality.  And soon.
 
 
 ---
