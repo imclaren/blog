@@ -35,9 +35,9 @@ Ben Thompson called this CIO.com article ["surreal"](http://stratechery.com/2014
 
 The answer? Future security breaches will actually destroy some companies once anonymous digital currencies become mainstream.
 
-### 3. Mainstream anonymous digital currencies will make money laundering much easier
+### 3. Mainstream anonymous digital transactions will make money laundering much easier
 
-William Gibson is a science fiction writer best known for coining the term "cyberspace".  In 1982, Gibson published a short story called *Burning Chrome*. In that story, Gibson predicted that the rise of anonymous digital credit (such as bitcoin) would change the nature and scale of crime, and result in data breaches that destroy companies.  Burning Chrome is one such story:
+William Gibson is a science fiction writer best known for coining the term "cyberspace".  In 1982, Gibson published a short story called *Burning Chrome*. In that story, Gibson predicted that the rise of anonymous digital credit (such as bitcoin transactions) would change the nature and scale of crime, and result in data breaches that destroy companies.  Burning Chrome is one such story:
 
 > "He was fading fast, and smart money was already whispering that the edge was off his game. He needed that one big score, and soon, because he didn't know any other kind of life, and all his clocks were set for hustler's time, calibrated in risk and adrenaline and that supernal dawn calm that comes when every move's proved right and a sweet lump of someone else's credit clicks into your own account.” 
 
@@ -45,7 +45,7 @@ Gibson foresaw that the missing link, that will make widespread catastrophic sec
 
 ### 4. And company data breaches will be catastrophic once money can be easily laundered
 
-Let's assume that it is only a matter of time before digital currencies such as bitcoin, that can be stored and transmitted anonymously, become mainstream.  These currencies will, at least initially, operate alongside traditional currencies backed by national governments.
+Let's assume that it is only a matter of time before digital currencies such as bitcoin, that can be stored and transmitted anonymously, become mainstream.  These currencies, or other forms of instantaneous anonymous transactions, will at least initially operate alongside traditional currencies backed by national governments.
 
 But once effectively unlimited money can be stored and transmitted anonymously, the nature and scale of crime will change.  As Gibson points out, now that massive data breaches are commonplace, the only thing stopping massive, company destroying fraud is that it's not money that hackers steal.  It's credit card details.
 
@@ -53,7 +53,7 @@ Credit cards can be cancelled, and money transfers can be tracked.  Currently, h
 
 But when a data breach is no longer a credit card breach, then hackers will target systems and companies that hold digital currency.  Because in a world of instant payments, all of our money, and our customers' money, can be instantly and irretrievably stolen.  Taking us and our customers with us.  Hackers will be able to access company systems because of existing lax company security standards.  And hackers will be able to steal vast amounts of money as soon as anonymous digital currencies become mainstream.
 
-We see this play out in reality.  And soon.
+We will soon see this play out in reality.  
 
 
 ---
