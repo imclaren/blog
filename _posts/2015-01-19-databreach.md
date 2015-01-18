@@ -3,7 +3,7 @@ layout: post
 title: Why large companies don't invest in security 
 ---
  
-*Data breaches are currently embarrassing but not crippling.  But major data breaches will destroy companies once instant anonymous digital transactions become mainstream.*   
+*Data breaches are currently embarrassing but not crippling.  But major data breaches will destroy companies once instant and anonymous digital transactions become mainstream.*   
  
 ![Winter is coming](http://iainmclaren.com/public/images/2015-01-19-databreach.jpg)  
  
