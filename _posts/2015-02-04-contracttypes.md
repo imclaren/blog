@@ -21,7 +21,7 @@ So how do we draft the simplest possible contract that is also fit for purpose?
 
 ### 2. The larger and risker the project, the more contract structure and project management we require
 
-But we must project manage, including by agreeing up front what the customer is buying.  But our contracts should be as short as possible, because the longer the contract, the longer it will take to negotiate. And in spite of what the poets say, time is in fact money - in this case at least.  
+We must project manage, including by agreeing up front what the customer is buying.  But our contracts should be as short as possible, because the longer the contract, the longer it will take to negotiate. And in spite of what the poets say, time is in fact money - in this case at least.  
 
 In other words, simple contracts are relatively quick and cheap to draft and negotiate, but not all contracts should be short and simple.  Because if our contract is too simple, then we risk project failure.  
 
