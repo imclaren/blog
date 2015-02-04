@@ -7,7 +7,7 @@ title: Zen and the art of drafting simple contracts
  
 ![zen contracts](http://iainmclaren.com/public/images/2015-02-04-zencontracts.jpg)
 
-*Photo: [be creator](https://www.flickr.com/photos/pustovit/) ([Some rights reserved](https://creativecommons.org/licenses/by/2.0/))*
+*Yes, drafting contracts looks exactly like this.  Photo: [be creator](https://www.flickr.com/photos/pustovit/) ([Some rights reserved](https://creativecommons.org/licenses/by/2.0/)).*
 
 ### 1. Time is actually money (in this context at least)
 
