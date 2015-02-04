@@ -45,15 +45,13 @@ We don't:
  
 ### 5. Modularising, catalogues, and Agile contracts 
 
-Other than the sheer amount of time it takes to negotiate a large, fixed price contract, there is a real risk that we will "over-cook" the contract by not building flexibility in from the start.  
-
-Therefore, once we have chosen a fixed price contract, there are three tools that we can use to simplify the contract drafting process, and to make implementing the contract as simple as possible:
+It takes a significant amount of time to negotiate a large, fixed price contract.  Therefore, once we have chosen a fixed price contract, there are three tools that we can use to simplify the contract drafting process, and to make implementing the contract as simple as possible:
 
 - **"Modularised" contracts:** are contracts that are split into smaller "chunks" or milestones with specific deliverables, customer acceptance tests, and payment gateways once each deliverable is delivered to the customer and accepted by the customer.  As discussed in my ["Agile" contracts article](http://iainmclaren.com/2015/01/28/agile/), some phases of the contract (separated by milestones) may be time and materials phases, and others may be fixed price. 
 - **Catalogues:** contemplate the customer purchasing a (relatively) large number of "widgets" that well defined in the contract.  For example, if the customer signs a contract to purchase laptops on an ad-hoc basis, and expects to purchase a large number of laptops, it is worth spending the time to negotiate a contract that specifies exactly what the customer will be getting (e.g. laptop specifications, service levels, delivery times).  Catalogues can work for any type of well defined service or deliverable that the customer may purchase in bulk over time, including business process outsourcing services and deliverable.  Implementing useful catalogue agreements is a whole topic in itself.
 - **["Agile" contracts](http://iainmclaren.com/2015/01/28/agile/):** are modular contracts with fixed deliverables and phases, that allow the customer and supplier to use an Agile process for some or all of the contract phases, but still requires the supplier to produce "fixed" deliverables.  The key is to ensure that our business team does noes not ask for an "Agile" contract with no milestones or deliverables specified in the contract.  That's just another way of proposing using a time and materials contract for a large critical project.  
 
-And just using a simple time and materials contract, for a large critical project, would be a mistake.
+Because it would be a mistake to just use a simple time and materials contract for a large critical project.
 
 ---
 
