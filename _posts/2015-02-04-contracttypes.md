@@ -41,7 +41,7 @@ The top left and bottom right quadrants in our table above show what happens if 
 We don't:
 
 - **Over-engineer** by using fixed price contracts for projects that are low value and not complex (or risky), as the time invested in contract negotiations is not worth the return.  For example, it makes no sense to pay more to negotiate the contract than its value (e.g. if we invest $1m to draft and negotiate a contract with a value of $10,000), unless what we are buying is critical to the business, or if the supplier providing inadequate services might cause damage to the business.
-- **Under-engineer** by using time and materials contracts for large critical projects, as if we do not agree up-front what the supplier will provide to the customer, the customer risks massive cost blow outs, as the supplier will take no risk if there is a disconnect between what the customer thought that they were buying and what the supplier actually provides.  The supplier will just charge more.
+- **Under-engineer** by using time and materials contracts for large critical projects, as if we do not agree up-front what the supplier will provide to the customer, the customer risks massive cost blow outs, as the supplier will take no risk if there is a disconnect between what the customer thought that they were buying and what the supplier actually provides.  The supplier will take no risk, and if the customer is not happy with the outcome of the project, the supplier will just charge more to complete the project.
  
 ### 5. Modularising, catalogues, and Agile contracts 
 
