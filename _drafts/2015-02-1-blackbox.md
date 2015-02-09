@@ -5,7 +5,7 @@ title: The rise and fall of the Chief Information Officer (CIO)
 
 *Customer business teams can now outsource their technology to cloud providers, and are doing so while avoiding or ignoring their own technology teams.  What's a CIO to do?*
  
-[insert image]
+![black box](http://iainmclaren.com/public/images/2015-02-11-cio.jpg)
 
 ### 1. CIOs can no longer be pure technologists 
 
