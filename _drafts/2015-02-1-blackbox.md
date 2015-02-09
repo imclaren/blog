@@ -1,57 +1,51 @@
 ---
 layout: post
-title: Zen and the art of drafting simple contracts
+title: The rise and fall of the Chief Information Officer (CIO)
 ---
 
-*Simple contracts are quick and cheap to draft and negotiate.  But if our contract is too simple then we risk project failure.  How do we draft the simplest possible contract?*
+*Customer business teams can now outsource their technology to cloud providers, and are doing so while avoiding or ignoring their own technology teams.  What's a CIO to do?*
  
-![zen contracts](http://iainmclaren.com/public/images/2015-02-04-zencontracts.jpg)
+[insert image]
 
-*Yes, drafting contracts looks exactly like this.  Photo: [be creator](https://www.flickr.com/photos/pustovit/) ([Some rights reserved](https://creativecommons.org/licenses/by/2.0/)).*
+### 1. CIOs can no longer be pure technologists 
 
-### 1. Time is actually money (in this context at least)
+Last year, CIO Magazine published an article titled ["How to Be the CIO of Tomorrow"](http://www.cio.com/article/2849270/cio-role/how-to-be-the-cio-of-tomorrow.html):
 
->Everything should be made as simple as possible, but not simpler 
->
->-- Albert Einstein (attrib.)
+> What does the future CIO look like? He or she probably won’t have a technology background. However, this new kind of CIO will not only have to lead a technical staff but will also be a leader of leaders in the boardroom.
 
-The feedback that I received in relation to my article on ["Agile" contracts](http://iainmclaren.com/2015/01/28/agile/) was fantastic.  And when I say fantastic, I mean half the comments were very positive, and the other half of the respondents thought that I had taken leave of my senses.  Because the problem with "Agile" is that it is often used as an excuse not to project manage at all, or draft any form of contract at all.
+The core argument is that CIOs can no longer be mere technologists.  Technology is now so integral to all businesses, that there is no longer any real distinction between customer business team responsibilities and customer technology team responsibilities.
 
-So how do we draft the simplest possible contract that is also fit for purpose?
+> Viewing the business through the eyes of the customer is not something that we tend to do as CIOs. We tend to spend a lot of time talking to supporting functions and internal operations. But are we prepared to take an outside-in view of the business? The typical CIO plays within a certain set of boundaries, or a box. Are we willing to step outside of that and drive cross-functional initiatives? If we stick within an IT boundary, we're going to miss the digital transformation agenda.
 
-### 2. The larger and risker the project, the more project management and detailed contract structure we require
+### 2. But CIOs have lost control of their technology (and information systems) 
 
-We need to project manage, including by agreeing up front what the customer is buying. But our contracts should be as short as possible, because the longer the contract, the longer it will take to negotiate. And in spite of what the poets say, time is in fact money - in this case at least. 
+The article argues that the role of the CIO has not been diminished, but the following quote is telling:
 
-In other words, simple contracts are relatively quick and cheap to draft and negotiate, but not all contracts should be short and simple.  Because if our contract is too simple, then we risk project failure.  
-
-### 3. Use time and materials contracts for  simple projects, and fixed price contracts for everything else 
-
-![contracttypes](http://iainmclaren.com/public/images/2015-02-04-contracttypes.jpg)  
+> I see the CIO as taking the guardian or custodian role, so we don't have shadow IT organizations popping up everywhere. The days of IT strategy getting decided just by the CIO, and the CIO having to convince the CFO or CEO, are gone. The CIO has to be able to take input from all sources and manage and direct the conversation at board level to ensure that we're getting a 360-degree view of what we should be doing.
  
-There are two contracting models:
+In other words, many, possibly most, CIOs have lost control over how technology (and information systems) are used in their organisations.  Busnesses are moving technology and business funtions to the cloud while avoiding, or outright ignoring, their own technology teams.
 
-- **Time and materials contracts:** where the supplier provides their people at a fixed daily rate (or hourly or monthly rate), but the supplier does not guarantee in the contract that their people will produce any particular outcome.  We use time and materials contracts for projects that are low value and not complex (or risky).
-- **Fixed price contracts:** where the supplier only gets paid if the supplier achieves specific outcomes.  We use fixed price contracts for projects where it is worth the time to develop detailed specifications.
+### 3. Increasingly, our technology systems are black boxes that we don't understand?
 
-### 4. Don't over-engineer or under-engineer the contract 
+Security professionals have a ... let's call it eccentric ... sense of humour.  We can see this from the rise of [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity), a security professional who insists that she is in fact Taylor Swift, who tweets about information security.  Yes, yes, I know, but bear with me.  InfoSec Taylor Swift recently posted the following: 
 
-The top left and bottom right quadrants in our table above show what happens if we "over-engineer" our contracts by using time and materials contracts for large complex projects, or "under-engineer" our contracts by using fixed price contracts for projects that are low value and not complex (or risky). 
+![black box](http://iainmclaren.com/public/images/2015-02-11-blackbox.jpg)
 
-We don't:
+*Photo: [@SwiftOnSecurity (February 6, 2015)](https://twitter.com/SwiftOnSecurity/status/563710484831301632)*
 
-- **Over-engineer** by using fixed price contracts for projects that are low value and not complex (or risky), as the time invested in contract negotiations is not worth the return.  For example, it makes no sense to pay more to negotiate the contract than its value (e.g. if we invest $1m to draft and negotiate a contract with a value of $10,000), unless what we are buying is critical to the business, or if the supplier providing inadequate services might cause damage to the business.
-- **Under-engineer** by using time and materials contracts for large critical projects, as if we do not agree up-front what the supplier will provide to the customer, the customer risks massive cost blow outs, as the supplier will take no risk if there is a disconnect between what the customer thought that they were buying and what the supplier actually provides.  The supplier will take no risk, and if the customer is not happy with the outcome of the project, the supplier will just charge more to complete the project.
- 
-### 5. Fixed price contract tools: modularising, catalogues, and Agile contracts 
+And here is the core argument.  Our technology systems ahave become brittle and insecure because if no-one in our organisation has a deep understanding of technology, then we will inevitably just believe the supplier sales spin.
 
-It takes a significant amount of time to negotiate a large, fixed price contract.  Therefore, once we have chosen a fixed price contract, there are three tools that we can use to simplify the contract drafting process, and to make implementing the contract as simple as possible:
+> Technical acumen, which has always been seen as a core field for CIOs, I believe will be increasingly acquired from different sources, such as partners, vendors, customers. Some aspect of IT strategy will be crowd-sourced from the business
 
-- **"Modularised" contracts:** are contracts that are split into smaller "chunks" or milestones with specific deliverables, customer acceptance tests, and payment gateways once each deliverable is delivered to the customer and accepted by the customer.  As discussed in my ["Agile" contracts article](http://iainmclaren.com/2015/01/28/agile/), some phases of the contract (separated by milestones) may be time and materials phases, and others may be fixed price. 
-- **Catalogues:** contemplate the customer purchasing a (relatively) large number of "widgets" that are well defined in the contract. For example, if the customer signs a contract to purchase a large number of laptops on an ad-hoc basis, it is worth spending the time to negotiate a contract that specifies exactly what the customer will be getting (e.g. laptop specifications, service levels, delivery times, etc.). Catalogues can work for any type of well defined service or deliverable that the customer may purchase in bulk over time. Catalogues can even work for business process outsourcing services and similar deliverables.
-- **["Agile" contracts](http://iainmclaren.com/2015/01/28/agile/):** are modular contracts with fixed deliverables and phases, that allow the customer and supplier to use an Agile process for some or all of the contract phases, but still requires the supplier to produce "fixed" deliverables.  The key is to ensure that our business team does noes not ask for an "Agile" contract with no milestones or deliverables specified in the contract.  That's just another way of proposing using a time and materials contract for a large critical project.  
+### 4. A CIO who doesn't understand technology is as dangerous as a CFO who doesn't understand finance
 
-In summary, we can still keep our contracts simple. But it is a mistake to use simple time and materials contracts for large (or otherwise critical) projects.
+In other words, if a supplier came to you and offered to run all of your finance functions, would you fire your Chief Financial Officer?  Would you accept the risk that you no longer have anyone in your organisation that understands your business finances?
+
+I think not.  And given that technology is now a critical part of all businesses, having a CIO who does not understand technology is as risky as having a CFO who doesn't understand finance.
+
+CIOs now need to know more.  A great CIO has a strong technology background - how can you advise on technology if you don't understand it?  Therefore, a great CIO has both a deep understanding of technology, and a deep understanding of the business in which they work.  A great CIO builds internal and external systems and relationships, works with internal and external stakeholders to improve business processes, and quite simply eats the cloud for breakfast.
+
+Mmmmn tasty.
 
 ---
 
