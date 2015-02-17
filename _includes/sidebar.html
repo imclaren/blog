@@ -31,7 +31,7 @@
     <a class="sidebar-nav-item" href="mailto:admin@iainmclaren.com">admin@iainmclaren.com</a>
 
     {% for post in site.posts %}
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}{{ post.url }}">{{ post.title | escape }}</a>
+      <a class="sidebar-nav-item" href="{{ post.url }}">{{ post.title | escape }}</a>
     {% endfor %}
 
   </nav>
