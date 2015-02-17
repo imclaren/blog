@@ -29,6 +29,11 @@
     <a class="sidebar-nav-item" href="http://linkedin.com/in/iainmclaren">About</a>
     <a class="sidebar-nav-item" href="https://twitter.com/ifmclaren">@ifmclaren</a>
     <a class="sidebar-nav-item" href="mailto:admin@iainmclaren.com">admin@iainmclaren.com</a>
+
+    {% for post in site.posts %}
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}{{ post.url }}">{{ post.title | escape }}</a>
+    {% endfor %}
+
   </nav>
 
   <div class="sidebar-item">
