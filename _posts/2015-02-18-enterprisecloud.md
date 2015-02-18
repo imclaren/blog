@@ -9,7 +9,7 @@ title: How to shower yourself in enterprise dollars
 
 *Photo: Uncle Scrooge McDuck by [fanpop](http://www.fanpop.com/clubs/uncle-scrooge-mcduck/images/35997717/title/money-swim-photo)*
 
-### 1. Enterprise customers will buy (and pay more for) cloud services backed up by "real" contracts
+### 1. Enterprise customers will buy (and pay more for) services backed up by "real" contracts
 
 Mark Cranney from [a16z](http://a16z.com) recently wrote [If SaaS Products Sell Themselves, Why Do We Need Sales?](http://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/).  Mark argues that:
 
