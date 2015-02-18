@@ -3,7 +3,7 @@ layout: post
 title: How to shower yourself in enterprise dollars
 ---
 
-*Immature suppliers smash their standard contract terms and conditions through the bureaucracy of enterprise customers. But mature suppliers take responsibility for their services, and sell more services (and make more money) by negotiating "real" contracts with their enterprise customers.*
+*Immature suppliers smash their standard contract terms and conditions through the bureaucracy of enterprise customers. But mature suppliers sell more services (and make more money) by taking responsibility for their services.*
  
 ![cio](http://iainmclaren.com/public/images/2015-02-18-mcduck.jpg)
 
