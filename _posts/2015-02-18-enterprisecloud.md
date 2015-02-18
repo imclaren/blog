@@ -55,7 +55,7 @@ But cloud providers, for example, are now differentiating themselves along anoth
 
 Don't get me wrong.  Enterprise customers are very cost sensitive, but enterprise customers will usually favour suppliers that provide real contracts, with real service levels.  Enterprise customers will favour suppliers that are willing to accept real responsibility if things go wrong.
 
-And enterprise customers will pay for this privilege.  Maybe suppliers that sign real contracts won't be swimming in gold coins like Scrooge McDuck.  But they won't be locked into a race to the bottom with their competitors on price.  And they won't leave millions of dollars on the table to be snapped up by their competitors.
+And enterprise customers will pay for this privilege.  Maybe suppliers that sign real contracts won't be swimming in gold coins like Scrooge McDuck.  But they won't be locked into a race to the bottom on price with their competitors.  And they won't leave millions of dollars on the table to be snapped up by their competitors.
 
 ---
 
