@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to shower yourself in enterprise dollars
+title: Shower me in enterprise dollars
 ---
 
 *Immature suppliers smash their standard contract terms and conditions through the bureaucracy of enterprise customers. But mature suppliers take responsibility for their services, and sell more services (and make more money) by negotiating "real" contracts with their enterprise customers.*
@@ -23,7 +23,7 @@ That is a fallacy.  Large enterprise customers will continue to favour service p
 
 > ... [E]nterprise/SaaS sales requires a well-developed process and guidelines ... [and] the principles remain the same even though the domains have changed. And whether SaaS entrepreneurs like to admit it or not, the new enterprise customer is a lot like the old enterprise customer.
 
-### 2. And supplier sales executives can close more deals by challenging their internal teams to sign "real" contracts
+### 2. And supplier sales executives can close more deals by challenging their business teams to sign "real" contracts
 
 In order to sell services to enterprises, Mark argues that there are three things that every enterprise customer wants to know: 
 
@@ -35,7 +35,7 @@ I think that is true, but I have found that a large number of enterprise custome
 
 However, large enterprise customers actually expect that the supplier's services will be provided under terms and conditions that require those suppliers to accept responsibility, in a contract, if their service does not work.
 
-### 3. Therefore, suppliers that are willing to pay for failure can make more enterprise sales and can charge higher margins
+### 3. Therefore, suppliers that are willing to pay for failure can make more enterprise sales and charge higher margins
 
 Global suppliers make higher margins as they move up the [value chain](http://en.wikipedia.org/wiki/Value_chain) from [low risk time and materials services to higher risk fixed price outcome based contracts](http://iainmclaren.com/2015/02/04/contracttypes/).  
 
