@@ -3,7 +3,7 @@ layout: post
 title: How to shower yourself in enterprise dollars
 ---
 
-*Immature suppliers smash their standard contract terms and conditions through enterprise customers' bureaucracy. But mature suppliers take responsibility for their services, and sell more services (and make more money) by negotiating "real" contracts with their enterprise customers.*
+*Immature suppliers smash their standard contract terms and conditions through the bureaucracy of enterprise customers. But mature suppliers take responsibility for their services, and sell more services (and make more money) by negotiating "real" contracts with their enterprise customers.*
  
 ![cio](http://iainmclaren.com/public/images/2015-02-18-mcduck.jpg)
 
@@ -35,7 +35,7 @@ I think that is true, but I have found that a large number of enterprise custome
 
 However, large enterprise customers actually expect that the supplier's services will be provided under terms and conditions that require those suppliers to accept responsibility, in a contract, if their service does not work.
 
-### 3. Therefore, suppliers willing to pay for failure can make more enterprise sales and can charge higher margins
+### 3. Therefore, suppliers that are willing to pay for failure can make more enterprise sales and can charge higher margins
 
 Global suppliers make higher margins as they move up the [value chain](http://en.wikipedia.org/wiki/Value_chain) from [low risk time and materials services to higher risk fixed price outcome based contracts](http://iainmclaren.com/2015/02/04/contracttypes/).  
 
@@ -51,7 +51,7 @@ The same thing is about to happen with externally hosted (i.e. cloud) services. 
 
 But cloud providers, for example, are now differentiating themselves along another axis.  Enterprise customers will pay more for cloud providers that are willing to take responsibility, and move up the value chain, by signing terms and conditions that require them to take real responsibility for service failures. 
 
-### 4. Suppliers can either accept risk or race to the bottom
+### 4. The supplier choice: accept risk or race to the bottom
 
 Don't get me wrong.  Enterprise customers are very cost sensitive, but enterprise customers will usually favour suppliers that provide real contracts, with real service levels.  Enterprise customers will favour suppliers that are willing to accept real responsibility if things go wrong.
 
