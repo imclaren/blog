@@ -66,7 +66,7 @@ This is a similar situation.  APRA seems to be of the view that APRA hasn't impo
 
 ### 6. What happens now?
 
-In the information paper, APRA goes into great detail regarding how financial institutions have (in APRA's view), failed to implement appropriate external hosting protections.  For example, APRA lists the following 'observed weaknesses' in existing bank processes:
+In the information paper, APRA goes into great detail regarding how some financial institutions seem to have (in APRA's view), failed to implement appropriate external hosting protections.  For example, APRA lists the following 'observed weaknesses' in existing bank processes:
 > - high-level risk descriptions that lack clarity or are documented as statements of control weaknesses;
 - lack of consideration of critical and/or sensitive IT assets which are accessible from the shared computing service;
 - inadequate consideration of the sensitivity of data (collectively and at the individual field level) when considering implementation solution options for shared computing services;
