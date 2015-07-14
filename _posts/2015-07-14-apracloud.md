@@ -19,7 +19,7 @@ The use and processing of data by banks is actually very complicated once we get
 
 And while the information paper is not all that long, it provides quite detailed advice.  Even the footnotes have interesting implications for banks.  I am just scratching the surface here.
 
-### 2. Banks must impose protections on suppliers as soon as data leaves the bank-run data centres
+### 2. Banks must impose protections on suppliers as soon as data leaves bank-run data centres
 
 That being said, APRA's new information paper ([*Outsourcing Involving Shared Computing Services (including Cloud)*](http://www.apra.gov.au/AboutAPRA/Documents/Information-Paper-Outsourcing-Involving-Shared-Computing-Services.pdf)) succinctly clarifies that it is important that banks implement appropriate measures to ensure that data hosted and/or processed outside of the bank's internally controlled data centres must be appropriately protected. 
 
