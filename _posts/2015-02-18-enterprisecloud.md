@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make more money by signing tougher contracts
+title: Suppliers make more money by signing tougher contracts
 ---
 
 *Immature suppliers smash their standard contract terms and conditions through the bureaucracy of their enterprise customers. But mature suppliers sell more services (and make more money) by signing "real" contracts, and by taking real responsibility for providing great services.*
