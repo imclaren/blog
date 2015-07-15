@@ -85,4 +85,4 @@ APRA may also scrutinise how robust banks' internal processes, and supplier agre
 
 <p id="fn1"><a href="#r1">[1]</a> In the interests of brevity, in this article I refer only to banks.  But this article and APRA's comments also apply in relation to other APRA regulated Authorised Deposit-taking Institutions (ADIs).
 
-**This post originally appeared at [iainmclaren.com](http://iainmclaren.com).**  These opinions are mine.  They are not necessarily those of my employer. And this is not leal advice.  Please seek it if you need it.
+**This post originally appeared at [iainmclaren.com](http://iainmclaren.com).**  These opinions are mine.  They are not necessarily those of my employer. And this is not legal advice.  Please seek it if you need it.
